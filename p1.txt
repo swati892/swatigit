@@ -5,4 +5,5 @@ this experiment is stashing
 return 0;
 return 1;
 stashing
-cloning is done finally
+cloning is done finally 
+fetching the contents from remote repository is also done
