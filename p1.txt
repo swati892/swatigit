@@ -5,3 +5,4 @@ this experiment is stashing
 return 0;
 return 1;
 stashing
+cloning is done finally
