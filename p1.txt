@@ -7,3 +7,8 @@ stashing
 cloning is done finally 
 fetching the contents from remote repository is also done
 hi shrinidhi
+first line
+second line
+third line
+fourth line
+
