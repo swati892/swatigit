@@ -1,2 +1,4 @@
  created feature branch
  merginig feature with master with a custom commit message
+ hi
+ hello
